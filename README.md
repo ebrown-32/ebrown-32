@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Eli Brown.
+## Hey there 👋, I'm Eli.
 
 [![Website](https://img.shields.io/badge/-Website-000?style=plastic&color=red)](https://elibrown.info/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ebrown-32)
