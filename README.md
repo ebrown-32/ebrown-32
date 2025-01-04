@@ -11,6 +11,6 @@
 - 🛠️ I work as an Associate Engineer @ RicohUSA.
 - 🌱 I’m currently fascinated with all things Artificial Intelligence -- particularly the implications of new technologies as it relates to law, the environment, and society as a whole.
 - 💬 Ask me about sports, movies, tech, games, or my favorite national parks.
-- 📫 How to reach me: Shoot me an email, DM, whatever works. Happy to setup a call if needed.
+- 📫 How to reach me: Shoot me an email, DM, whatever works.
 
 
