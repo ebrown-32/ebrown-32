@@ -9,8 +9,8 @@
 
 - 📚 I’m currently studying computer science @ the University of Nebraska.
 - 🛠️ I work as an Associate Engineer @ RicohUSA.
-- 🌱 I’m currently fascinated with all things Artificial Intelligence -- particularly the implications of new technologies as it relates to law, the environment, and society as a whole.
+- 🌱 I’m currently fascinated with all things Artificial Intelligence.
 - 💬 Ask me about sports, movies, tech, games, or my favorite national parks.
-- 📫 How to reach me: Shoot me an email, DM, whatever works.
+- 📫 Get in touch! Shoot me an email, DM, whatever works. Let's work on something.
 
 
