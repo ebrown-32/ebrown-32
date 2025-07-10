@@ -8,8 +8,8 @@
 **About Me:**
 
 - 📚 I studied computer science @ the University of Nebraska. Go Big Red!
-- 🌱 I’m currently fascinated with all things AI, economics, golf, health tech, travel, space...
-- 💬 Always down to talk sports, movies, tech, games, or favorite national parks.
-- 📫 Get in touch! Shoot me an email, DM, whatever works. Let's work on something.
+- 🌱 I don't really get bored, currently fascinated with all things AI, economics, golf, health tech, travel, space...
+- 💬 Always down to talk sports, movies, tech, dogs, games, fantasy football, or national parks.
+- 📫 Get in touch! Shoot me an email, DM, whatever works.
 
 
