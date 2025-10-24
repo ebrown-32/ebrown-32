@@ -12,4 +12,4 @@
 - Always down to talk sports, movies, tech, dogs, games, fantasy football, or national parks.
 - Get in touch! Shoot me an email, DM, whatever works.
 
-- Check out my latest project -> https://21empire.net
+- Check out my latest project -> [here]([https://www.geeksforgeeks.org/](https://21empire.net/)){:target="_blank"} 
