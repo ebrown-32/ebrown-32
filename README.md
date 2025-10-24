@@ -11,3 +11,5 @@
 - I don't really get bored, currently fascinated with all things AI, economics, golf, health, travel...
 - Always down to talk sports, movies, tech, dogs, games, fantasy football, or national parks.
 - Get in touch! Shoot me an email, DM, whatever works.
+
+- Check out my latest project -> https://21empire.net
